@@ -1,0 +1,1 @@
+Model to predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more. This Case study will help the marketing department of Banks to find out possible customers.
